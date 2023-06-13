@@ -10,6 +10,14 @@
  * Copyright 2011-2022 Twitter, Inc.
  * Licensed under MIT (https://github.com/twbs/bootstrap/blob/main/LICENSE)
  */
+ .loading-indicator__icon[data-v-2ad6b2df] {
+  height: 100%;
+  width: 100%
+}
+
+.loading-indicator__icon[data-v-2ad6b2df] path {
+  stroke: var(--bs-primary)
+}
  path[data-v-1618e87a] {
   stroke-width: 1.5;
   stroke-miterlimit: 1.5;
