@@ -12,7 +12,7 @@
  */
  path {
   stroke: var(--bs-primary);
-  fill-opacity: #00000000;
+  fill: #00000000;
 }
 :root {
   --bs-blue: #0d6efd;
