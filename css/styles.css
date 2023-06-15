@@ -12,18 +12,18 @@
  */
 @keyframe logo {
   0% { opacity: 1; }
-  25{ opacity: 0; }
+  25% { opacity: 0; }
   50% { opacity: 0; }
   100% { opacity: 1; }
 } 
 .site-logo {
-   height: 1.5rem;
-   width: 1.5rem;
+  height: 1.5rem;
+  width: 1.5rem;
   animation: logo 10s ease infinite;
 }
 .site-logo path {
   stroke: #fff;
-  stroke-width: 1.5em;
+  stroke-width: 1em;
   fill: #00000000;
 }
 :root {
