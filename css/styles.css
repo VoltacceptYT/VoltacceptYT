@@ -10,8 +10,12 @@
  * Copyright 2011-2022 Twitter, Inc.
  * Licensed under MIT (https://github.com/twbs/bootstrap/blob/main/LICENSE)
  */
- path {
-  stroke: var(--bs-primary);
+svg {
+   height: 1rem;
+   width: 1rem;
+}
+path {
+  stroke: #fff;
   fill: #00000000;
 }
 :root {
