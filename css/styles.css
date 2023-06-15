@@ -11,12 +11,12 @@
  * Licensed under MIT (https://github.com/twbs/bootstrap/blob/main/LICENSE)
  */
 svg {
-   height: 5rem;
-   width: 5rem;
+   height: 1.5rem;
+   width: 1.5rem;
 }
 path {
   stroke: #fff;
-  stroke-width: 2em;
+  stroke-width: 5em;
   fill: #00000000;
 }
 :root {
