@@ -1,5 +1,5 @@
 - ♾️ hi, I’m @VoltacceptYT
-- 👨‍💻 I’m interested in codin
+- 👨‍💻 I’m interested in coding
 - 📄 I’m currently working on DrifterDocs
 - ▶️ I'm a YouTuber my channel name is Voltaccept
 - 🧠 I'm very smart
