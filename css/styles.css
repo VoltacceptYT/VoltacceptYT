@@ -19,7 +19,7 @@
   stroke-width: 1em;
   fill: #00000000;
 }
-.site-logo path:hover {
+.site-logo:hover path {
   stroke: #00000000;
   stroke-width: 1em;
   fill: #fff;
