@@ -15,14 +15,14 @@
   width: 1.5rem;
 }
 .site-logo path {
-  stroke: #00000000;
+  stroke: #fff;
   stroke-width: 1em;
-  fill: #fff;
+  fill: #00000000;
 }
 .site-logo:hover path {
-  stroke: #00000000;
+  stroke: #d3d3d3;
   stroke-width: 1em;
-  fill: #d3d3d3;
+  fill: #00000000;
 }
 :root {
   --bs-blue: #0d6efd;
