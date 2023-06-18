@@ -17,12 +17,12 @@
 .site-logo path {
   stroke: #fff;
   stroke-width: 1em;
-  fill: #00000000;
+  fill: #fff;
 }
 .site-logo:hover path {
   stroke: #00000000;
   stroke-width: 1em;
-  fill: #fff;
+  fill: #f2f3f5;
 }
 :root {
   --bs-blue: #0d6efd;
