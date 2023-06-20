@@ -11,8 +11,14 @@
  * Licensed under MIT (https://github.com/twbs/bootstrap/blob/main/LICENSE)
  */
 .site-logo {
-  height: 1.5rem;
-  width: 1.5rem;
+  height: calc(1.375rem + 1.5vw);
+  width: calc(1.375rem + 1.5vw);
+}
+@media (min-width: 1200px) {
+  .site-logo {
+    height: 2.5rem;
+    width: 2.5rem;
+  }
 }
 .site-logo path {
   stroke: #fff;
