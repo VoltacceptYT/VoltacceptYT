@@ -5,3 +5,12 @@
 */
 // This file is intentionally blank
 // Use this file to add JavaScript to your project
+var jsmediatags = window.jsmediatags;
+jsmediatags.read("http://www.example.com/music-file.mp3", {
+  onSuccess: function(tag) {
+    console.log(tag);
+  },
+  onError: function(error) {
+    console.log(error);
+  }
+});
