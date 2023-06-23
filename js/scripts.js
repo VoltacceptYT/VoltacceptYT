@@ -6,7 +6,8 @@
 // This file is intentionally blank
 // Use this file to add JavaScript to your project
 var jsmediatags = window.jsmediatags;
-jsmediatags.read("http://www.example.com/music-file.mp3", {
+
+jsmediatags.read("/VoltacceptYT/assets/My Past (Instrumental).mp3", {
   onSuccess: function(tag) {
     console.log(tag);
   },
