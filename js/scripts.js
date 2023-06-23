@@ -6,10 +6,11 @@
 // This file is intentionally blank
 // Use this file to add JavaScript to your project
 var jsmediatags = window.jsmediatags;
+var taglist = document.getElementById("taglist");
 
 jsmediatags.read("/VoltacceptYT/assets/My Past (Instrumental).mp3", {
   onSuccess: function(tag) {
-    console.log(tag);
+    taglist.innerHTML = tag;
   },
   onError: function(error) {
     console.log(error);
