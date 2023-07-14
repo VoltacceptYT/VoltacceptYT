@@ -10,6 +10,9 @@
  * Copyright 2011-2022 Twitter, Inc.
  * Licensed under MIT (https://github.com/twbs/bootstrap/blob/main/LICENSE)
  */
+body, html {
+  scrollbar-width: none;
+}
 .site-logo {
   height: calc(1.375rem + 1.5vw);
   width: calc(1.375rem + 1.5vw);
