@@ -1,9 +1,10 @@
-- ♾️ hi, I’m @VoltacceptYT
+- ♾️ hi, I’m Voltaccept
 - 👨‍💻 I’m interested in coding
+- 🔧 I’m also interested in modding
 - 📄 I’m currently working on DrifterDocs
 - ▶️ I'm a YouTuber my channel name is Voltaccept
 - 🧠 I'm very smart
-- 🌐 I've got a website which can be found [here](https://sites.google.com/view/voltaccept/home)
+- 🌐 I've got a website which can be found [here](voltaccept.com)
 
 <!---
 VoltacceptYT/VoltacceptYT is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
