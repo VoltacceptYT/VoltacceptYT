@@ -1,8 +1,8 @@
-<img src="./Emojis/voltaccept_rounded.png" alt="Voltaccept Rounded" width="20" height="26.6" style="max-width:none;vertical-align:text-top;background-color:transparent;"> Hi, I’m Voltaccept!
+♾️ Hi, I’m Voltaccept!
 
 - **👨‍💻 Interests:** Coding, modding
 - **📄 Current Project:** None
-- **<img src="./Emojis/youtube.png" alt="YouTube" width="20" height="26.6" style="max-width: none; vertical-align: text-top; background-color: transparent;"> YouTube Channel:** Voltaccept
+- ** YouTube Channel:** Voltaccept
 - **🧠 Skills:** Intelligent
 - **🌐 Website:** [voltaccept.com](http://www.voltaccept.com)
 - **🎮 Games:** Rust, Skyrim, Skyrim VR, Minecraft, Fallout 76
