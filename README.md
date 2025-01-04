@@ -1,4 +1,6 @@
-♾️ Hi, I’m Voltaccept!
+<center>
+<img src="./assets/images/voltaccept_title.webp" alt="Voltaccept Logo" width="100%" height="100%">
+</center>
 
 - **👨‍💻 Interests:** Coding, modding
 - **📄 Current Project:** None
