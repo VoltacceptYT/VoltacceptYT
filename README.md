@@ -1,4 +1,4 @@
-♾️ Hi, I’m Voltaccept!
+<img src="" alt="Happy Emoji" width="16" height="16"> Hi, I’m Voltaccept!
 
 - **👨‍💻 Interests:** Coding, modding
 - **📄 Current Project:** None
