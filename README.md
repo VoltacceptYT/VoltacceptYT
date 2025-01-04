@@ -1,9 +1,9 @@
 ♾️ Hi, I’m Voltaccept!
 
-- **👨‍💻 Interests:** Coding and modding.
-- **📄 Current Project:** DrifterDocs.
-- **▶️ YouTube Channel:** Voltaccept.
-- **🧠 Skills:** Very smart.
+- **👨‍💻 Interests:** Coding and modding
+- **📄 Current Project:** None
+- **▶️ YouTube Channel:** Voltaccept
+- **🧠 Skills:** Very smart
 - **🌐 Website:** [voltaccept.com](http://www.voltaccept.com)
 
 <!---
