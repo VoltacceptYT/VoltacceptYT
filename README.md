@@ -4,7 +4,7 @@
 - **📄 Current Project:** DrifterDocs.
 - **▶️ YouTube Channel:** Voltaccept.
 - **🧠 Skills:** Very smart.
-- **🌐 Website:** [voltaccept.com](https://voltaccept.com)
+- **🌐 Website:** [voltaccept.com](voltaccept.com)
 
 <!---
 VoltacceptYT/VoltacceptYT is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
