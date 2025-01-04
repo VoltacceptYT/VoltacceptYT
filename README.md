@@ -2,7 +2,7 @@
 
 - **👨‍💻 Interests:** Coding, modding
 - **📄 Current Project:** None
-- **▶️ YouTube Channel:** Voltaccept
+- **📼 YouTube Channel:** Voltaccept
 - **🧠 Skills:** Intelligent
 - **🌐 Website:** [voltaccept.com](http://www.voltaccept.com)
 - **🎮 Games:** Rust, Skyrim, Skyrim VR, Minecraft, Fallout 76
