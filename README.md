@@ -1,8 +1,4 @@
-<center>
-  
-  VoltacceptYT
-  
-</center>
+Hi, I'm VoltacceptYT
 
 - **👨‍💻 Interests:** Coding, modding
 - **📄 Current Project:** None
