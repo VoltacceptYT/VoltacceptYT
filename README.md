@@ -1,5 +1,5 @@
 <center>
-  <h1>VoltacceptYT</h1>
+  VoltacceptYT
 </center>
 
 - **👨‍💻 Interests:** Coding, modding
