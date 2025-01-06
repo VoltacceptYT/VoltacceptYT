@@ -4,7 +4,7 @@ Hi, I'm VoltacceptYT
 - **📄 Current Project:** None
 - **📼 YouTube Channel:** Voltaccept
 - **🧠 Skills:** Intelligent
-- **🌐 Website:** [voltaccept.com](http://www.voltaccept.com)
+- **🌐 Website:** [voltaccept.com](https://www.voltaccept.com)
 - **🎮 Games:** Rust, Skyrim, Skyrim VR, Minecraft, Fallout 76
 
 <!---
