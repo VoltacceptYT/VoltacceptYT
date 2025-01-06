@@ -1,6 +1,6 @@
 Hi, I'm VoltacceptYT
 
-- **👨‍💻 Interests:** Coding, modding
+- **👨‍💻 Interests:** Coding, Modding
 - **📄 Current Project:** None
 - **📼 YouTube Channel:** Voltaccept
 - **🧠 Skills:** Intelligent
