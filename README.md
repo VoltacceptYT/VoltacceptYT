@@ -1,10 +1,10 @@
 Hi, I'm VoltacceptYT
 
-- **👨‍💻 My Interests:** Coding, Modding, Developing
 - **📄 My Current Project:** Website
 - **📼 My YouTube Channel:** Voltaccept
+- **🌐 My Website:** [Main URL](https://www.voltaccept.com)
 - **🧠 My Skills:** Intelligent
-- **🌐 My Websites:** [Main URL](https://www.voltaccept.com)
+- **👨‍💻 My Interests:** Coding, Modding, Developing
 - **🎮 Games I've Modded:** Skyrim, Skyrim VR, Minecraft, Fallout 2, Cookie Clicker (Web)
 - **💬 My Coding Languages:** Java, HTML, JavaScript, Python, C-Sharp, Batch, Powershell
 
