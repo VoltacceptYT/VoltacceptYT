@@ -1,11 +1,13 @@
 Hi, I'm VoltacceptYT
 
-- **👨‍💻 Interests:** Coding, Modding
-- **📄 Current Project:** Imperial Alternatives
-- **📼 YouTube Channel:** Voltaccept
-- **🧠 Skills:** Intelligent
-- **🌐 Websites:** [Main URL](https://www.voltaccept.com) or [Alternate URL](https://sites.google.com/view/voltaccept)
-- **🎮 Games:** Rust, Skyrim, Skyrim VR, Minecraft, Fallout 76
+- **👨‍💻 My Interests:** Coding, Modding, Developing
+- **📄 My Current Project:** Website
+- **📼 My YouTube Channel:** Voltaccept
+- **🧠 My Skills:** Intelligent
+- **🌐 My Websites:** [Main URL](https://www.voltaccept.com)
+- **🎮 Games I've Modded:** Skyrim, Skyrim VR, Minecraft, Fallout 2, Cookie Clicker (Web)
+- **💬 My Coding Languages:** Java, HTML, JavaScript, Python, C-Sharp, Batch, Powershell
+
 
 <!---
 VoltacceptYT/VoltacceptYT is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
